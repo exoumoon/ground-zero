@@ -36,11 +36,6 @@ hash = "cbf0c726dc6a0117faa264c7eba1d59d5a1e11a6c2ede1c2be4d6f320fdd62d5"
 metafile = true
 
 [[files]]
-file = "mods/better-mob-combat.pw.toml"
-hash = "a76ced9eff62227af6ed8022e31dc1d8d283092dfa88f4697c90912df27fe345"
-metafile = true
-
-[[files]]
 file = "mods/burnt-basic.pw.toml"
 hash = "aaaf4979c7410c5b0653f489a820432551c06df3322a61f5948fd376ae038b03"
 metafile = true
@@ -83,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "1dd4a5385d726491647f47cd42760b0a322a8d3d82728bbbe3a45efde9b4e161"
+metafile = true
+
+[[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "36706e16174e4878d8e9c3580003c3cdb8ab0b5bcc678ecea50c48a7be333838"
 metafile = true
 
 [[files]]
@@ -146,11 +146,6 @@ hash = "8ccb54bebc5af2470ee2fdaf0a719efd00548b442f6641ed88f7b031207dc4cd"
 metafile = true
 
 [[files]]
-file = "mods/mob-player-animator.pw.toml"
-hash = "d80e2122c22c4279dd81f34e4a9be7b8fe35fc7bf6c9be4bcab755c142f0217a"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "3b4e1e786ad25484232110da3c367190cac0cf47f9d584313906adc039a6fa67"
 metafile = true
@@ -173,6 +168,16 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "63ca101d88fe4780c0ca6c5091d92d15fe678b89e7859b179b7dab2829222921"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "41c6ad0844bb3e87ae73e46f8cf61d6f5b0730ddf54ad6711e84e5b2f3b5a96f"
 metafile = true
 
 [[files]]
