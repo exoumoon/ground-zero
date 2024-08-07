@@ -1,0 +1,13 @@
+name = "Extra Zombie Drops"
+filename = "better_mob_drops.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf3b9055bbe308dce2d29b4d295bad7225d3a7a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5547168
+project-id = 822109
