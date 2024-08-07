@@ -31,8 +31,33 @@ hash = "ad277ad1cc85c6dce61a2ab784dfcb54b5c522a824f06cb94339bf32bdb5d52a"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "cbf0c726dc6a0117faa264c7eba1d59d5a1e11a6c2ede1c2be4d6f320fdd62d5"
+metafile = true
+
+[[files]]
+file = "mods/better-mob-combat.pw.toml"
+hash = "a76ced9eff62227af6ed8022e31dc1d8d283092dfa88f4697c90912df27fe345"
+metafile = true
+
+[[files]]
+file = "mods/burnt-basic.pw.toml"
+hash = "aaaf4979c7410c5b0653f489a820432551c06df3322a61f5948fd376ae038b03"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "b344591cc2489cb65880f43e38362c2d3719e630e39ce9553ea12beb3d901034"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
 
 [[files]]
@@ -41,8 +66,18 @@ hash = "1ba38e1558b064ee70588d7b61f7fe208b233af999b13c0cf03a11b628d05cb0"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "d466a51878d3e73b70135f25465134d66a710dc1e4feddbfa2e832f337cdc84f"
 metafile = true
 
 [[files]]
@@ -71,6 +106,31 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "d0d383d4ff24fd6a4c5a9319806b0c99da9d0120fa14719911596eb39abc6f20"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "01c1739b0a62eaa9326444b58b56222ca8d66bf3ccb677e9ecfa54baa8c98a13"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "b54bcb74269ae5750d55f26cf890871fcc5b0184f8feacee2a5de4af65036818"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "fd23d47068cbfc4d56dfebc4c0fb3e52d687c9dc6403aa45e948c0fdcb0364a8"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "90684fb19bed74e6c1dfdf4737cbe2710d0ddc2e7143dfc3396ed2bb0b7933f3"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
@@ -86,8 +146,18 @@ hash = "8ccb54bebc5af2470ee2fdaf0a719efd00548b442f6641ed88f7b031207dc4cd"
 metafile = true
 
 [[files]]
+file = "mods/mob-player-animator.pw.toml"
+hash = "d80e2122c22c4279dd81f34e4a9be7b8fe35fc7bf6c9be4bcab755c142f0217a"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "3b4e1e786ad25484232110da3c367190cac0cf47f9d584313906adc039a6fa67"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
 metafile = true
 
 [[files]]
@@ -101,8 +171,28 @@ hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
+metafile = true
+
+[[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "ef21c75f63e4e51eba8cf06b1203b102bed0eefea7ddc340a45bba732271f72b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
+metafile = true
+
+[[files]]
+file = "mods/spartan-weaponry.pw.toml"
+hash = "2a9853875b34252eb21f8dcebc346f8067d1d10421445e8d8059e51add9650d3"
 metafile = true
 
 [[files]]
@@ -141,8 +231,18 @@ hash = "5bc578f409819105cd718ac6d13916d7984a2e4a110fe3a6585befa25d792077"
 metafile = true
 
 [[files]]
+file = "mods/third-person-shooting-zero.pw.toml"
+hash = "d01b0f43e42fafefe5148777b050f5fc41d92d0efaf2fddaac56e5a117faf105"
+metafile = true
+
+[[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
 hash = "d073612d625d607c5724054a168148ca354e9fcde9af6b8eb7eaa581214e61de"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "0b65cd1a439326b6a81f453773722893e4eef1c065859e7a0f2935952f6e9cb3"
 metafile = true
 
 [[files]]

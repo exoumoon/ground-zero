@@ -1,0 +1,13 @@
+name = "Better Mob Combat"
+filename = "Better Mob Combat-forge-1.20.1-1.2.0-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KU8N7kPc/versions/zKfrVE96/Better%20Mob%20Combat-forge-1.20.1-1.2.0-all.jar"
+hash-format = "sha1"
+hash = "208cd9e58f3d119fdc5d5ea1f84e59e217da837c"
+
+[update]
+[update.modrinth]
+mod-id = "KU8N7kPc"
+version = "zKfrVE96"

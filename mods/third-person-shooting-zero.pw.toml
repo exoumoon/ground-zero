@@ -1,0 +1,13 @@
+name = "Third Person Shooting: Zero"
+filename = "tp_shooting-1.20.1-5.0.1-all.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yl6ylodU/versions/V6GPAonK/tp_shooting-1.20.1-5.0.1-all.jar"
+hash-format = "sha1"
+hash = "72410d3729b8519edcba5a8e70d598d6e4d3c36e"
+
+[update]
+[update.modrinth]
+mod-id = "yl6ylodU"
+version = "V6GPAonK"
