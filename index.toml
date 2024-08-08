@@ -1,6 +1,126 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "c942f035a30286144e7b55937b5de1c14fadd7afa60335a48af7fb882d434eae"
+
+[[files]]
+file = "config/advancementplaques-common.toml"
+hash = "63f2ecae2aa789a2951a826ada4f298f83f2fc94f2a6ce0b302532ca45aea9bb"
+
+[[files]]
+file = "config/alexscaves-client.toml"
+hash = "0ce8362ec45c371581f7d09ac43c543362579286a135a4e2a42797b5468a44d1"
+
+[[files]]
+file = "config/alexscaves-general.toml"
+hash = "bfc1250a0353b77dba245ac7b533d7fe02f4d53d39b75195b7f670fbe0866693"
+
+[[files]]
+file = "config/alexsmobs.toml"
+hash = "7a41bd262effb05c468de1dbcc3b5cfe04124d537710064e1ceed735a8514632"
+
+[[files]]
+file = "config/badmobs-common.toml"
+hash = "a483c5888f1e0a02997040e64dfc8eaa0e1176025cba4a720361366c36c352e3"
+
+[[files]]
+file = "config/create_connected-common.toml"
+hash = "b69d9e2e150fff2484fc355d14fd8c700231d85821cc5cf0248b7530ce3e5702"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "769f83a44bca6e49ceca9ef045d0a495cb842b6f9d94deb06615272ca0a367b2"
+
+[[files]]
+file = "config/draggable_lists.json5"
+hash = "523815276f43aa355350132dba10a81a8134651d1f9c8c9466349fcd471981b5"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
+
+[[files]]
+file = "config/emi.css"
+hash = "bf6f1b15a40124590c5a6af7116f04e5b53431f578d6e5d95551de7a7962e473"
+
+[[files]]
+file = "config/enchdesc.json"
+hash = "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5"
+
+[[files]]
+file = "config/fml.toml"
+hash = "2b9614f647e17ef44ca8b90f296bbf482ac5bb977f8e215eee9a6d1b17eb3bba"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "6479148647869ef0b05a06c840ed05b107905bc0b61a2293e536ff2dd5c57afa"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "9be076748d85f197415159c18f77d37fda00d328526439a24b930a84c7adeb94"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "cff55278ef4dee896e69b07ecd1ce19f01ec6051d71e830681daa030e8709585"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "117f871ea5daf55c37a15d908c3712ad6f0aee93068eb80211ffa007c82ff069"
+
+[[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "fd5037d2a044a0f4718215180f0d04b2698a6896ad1195c8093dde4cdd025a53"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "1e2947edfe05bf3763e248fad734a46e577f983a64c93ac7b3cdb767244db17a"
+
+[[files]]
+file = "config/shouldersurfing-client.toml"
+hash = "ca492b7a53f1b8264d5bc8efff34fe707bb9935de180acffa274fb282171bb7b"
+
+[[files]]
+file = "config/spartanweaponry-common.toml"
+hash = "152deb5fc9a23077d7dad227ef238350eff923275133090e9984eac53102d0bd"
+
+[[files]]
+file = "config/tacz-client.toml"
+hash = "9c246af4feaf83132cc379115fe8d5540b517d366f5d84b4119f53972e76db08"
+
+[[files]]
+file = "config/tacz-common.toml"
+hash = "800f48b1e0b04e620d137ead17bc1a39e8937c7d9edd85da07114555fad7e850"
+
+[[files]]
+file = "config/zombieawareness/ClientConfig.toml"
+hash = "97ffa3854e27b7fac0de477bb55553676eb7fe1123bfcd89c0df7218f1de1dae"
+
+[[files]]
+file = "config/zombieawareness/Features.toml"
+hash = "cbbe2f09d5bab7e183ea1682b504240ddd6e3199d407d40ba1d0621fad7adec1"
+
+[[files]]
+file = "config/zombieawareness/General.toml"
+hash = "834c100d29dc8bd1735e8fd318b449709c2b61efcdfa6ba1fd9b954951e4b0fd"
+
+[[files]]
+file = "config/zombieawareness/MobLists.toml"
+hash = "83f4361a64cb3581a86684caf715fb23542b49c2f1535193137d23c185577f02"
+
+[[files]]
+file = "config/zombieawareness/PlayerRulesAndLists.toml"
+hash = "0c9cb7ce493414f2a4b846417db297b8c24ec9950e5e2630d1cfff387568f5ae"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "1bb5e8d62c6c1b08125d858ee8afca117f1d63c03abc0b37a31164aacbe637e5"
 metafile = true
