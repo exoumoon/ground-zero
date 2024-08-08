@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] EMI Compat"
+filename = "emi-letsdo-compat-forge-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k6hi4lMv/versions/mjFf60qW/emi-letsdo-compat-forge-1.2.jar"
+hash-format = "sha1"
+hash = "17cd0780a8e4dbaf87047a25422102bdd886a9e0"
+
+[update]
+[update.modrinth]
+mod-id = "k6hi4lMv"
+version = "mjFf60qW"
