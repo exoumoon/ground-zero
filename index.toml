@@ -109,6 +109,18 @@ file = "config/tacz-common.toml"
 hash = "800f48b1e0b04e620d137ead17bc1a39e8937c7d9edd85da07114555fad7e850"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "d39aa187ead698ee9cb8bff61431b8ac5edf63cd7ef9e5037af4ffee223ae5f5"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "2712471e8ab9d295c2eaf3276f88041603005ef31b3a3d7e2350fa999b982a55"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "b7e0e99fa409261c642f3f1e0c7ebca5e1a4d6b9f1260e2ebf097a4de5d041e2"
+
+[[files]]
 file = "config/zombieawareness/ClientConfig.toml"
 hash = "97ffa3854e27b7fac0de477bb55553676eb7fe1123bfcd89c0df7218f1de1dae"
 
