@@ -1021,6 +1021,11 @@ hash = "2639989caef534dc10b34d7c30107f735bffee59df56720981eab9f3e555d3a4"
 metafile = true
 
 [[files]]
+file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-20.pw.toml"
+hash = "5d6a9c4d995bc6a2cac09b738242f5f85df0fb70e39a90b1fb1319f5b6d7c2de"
+metafile = true
+
+[[files]]
 file = "resourcepacks/unique-dark.pw.toml"
 hash = "16b096ee1b15287081cc8a83c0104b66ce5e32afbed24f70eb6b8e48c2a8b506"
 metafile = true
