@@ -54,7 +54,7 @@ hash = "c5579f3d90cd1f1550dcfec2845c3fb534768779ce281d09f625fe14bd578a1a"
 
 [[files]]
 file = "config/fml.toml"
-hash = "2b9614f647e17ef44ca8b90f296bbf482ac5bb977f8e215eee9a6d1b17eb3bba"
+hash = "907e5b5330e1c9c0458e5a4ed40ba172a1d041e2d0e1e098187e4de8618e68aa"
 
 [[files]]
 file = "config/forge-client.toml"
