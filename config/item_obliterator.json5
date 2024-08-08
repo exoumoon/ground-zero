@@ -86,16 +86,16 @@
         // I don't like the style of the Infinity items of Industrial Foregoing.
         "!industrialforegoing:infinity_.*",
 
-        "!spartanweaponry:.*copper.*"
-        "!spartanweaponry:.*tin.*"
-        "!spartanweaponry:.*bronze.*"
-        "!spartanweaponry:.*steel.*"
-        "!spartanweaponry:.*electrum.*"
-        "!spartanweaponry:.*lead.*"
-        "!spartanweaponry:.*nickel.*"
-        "!spartanweaponry:.*constantan.*"
-        "!spartanweaponry:.*platinum.*"
-        "!spartanweaponry:.*aluminium.*"
+        "!spartanweaponry:.*copper.*",
+        "!spartanweaponry:.*tin.*",
+        "!spartanweaponry:.*bronze.*",
+        "!spartanweaponry:.*steel.*",
+        "!spartanweaponry:.*electrum.*",
+        "!spartanweaponry:.*lead.*",
+        "!spartanweaponry:.*nickel.*",
+        "!spartanweaponry:.*constantan.*",
+        "!spartanweaponry:.*platinum.*",
+        "!spartanweaponry:.*aluminium.*",
 
         // Last item so I don't have to worry about commas.
         ""
