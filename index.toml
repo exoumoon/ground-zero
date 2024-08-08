@@ -889,11 +889,6 @@ hash = "0b65cd1a439326b6a81f453773722893e4eef1c065859e7a0f2935952f6e9cb3"
 metafile = true
 
 [[files]]
-file = "mods/unifiedoptions.pw.toml"
-hash = "34070092bcc47fcba943a6b3d09226ff9a0e54512fa91e3e34371a965c84ce8e"
-metafile = true
-
-[[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "427a4ac2edeca19b458978f01611b2be1179e325b609e3d56241f97c8415a789"
 metafile = true
