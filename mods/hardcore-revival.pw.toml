@@ -1,0 +1,13 @@
+name = "Hardcore Revival"
+filename = "hardcorerevival-forge-1.20.1-12.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HqKoXaXz/versions/SvXynBIj/hardcorerevival-forge-1.20.1-12.0.4.jar"
+hash-format = "sha1"
+hash = "87d959ea32c7b97dd9473a5ca5a0671d00586565"
+
+[update]
+[update.modrinth]
+mod-id = "HqKoXaXz"
+version = "SvXynBIj"

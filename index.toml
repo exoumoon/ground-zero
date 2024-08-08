@@ -174,8 +174,18 @@ hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
+file = "mods/atlas-lib.pw.toml"
+hash = "10980f6dcaafe6043277597da2030e687f5999ef63d9019d30ebf00229073ba9"
+metafile = true
+
+[[files]]
 file = "mods/bad-mobs.pw.toml"
 hash = "ad277ad1cc85c6dce61a2ab784dfcb54b5c522a824f06cb94339bf32bdb5d52a"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "00a36c775ddcdbe1be447315b337cba5960778d9c0a13b40d22e012f6f069446"
 metafile = true
 
 [[files]]
@@ -301,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "ef36209c37c69cc89fb6e78be36cd0f2696fa3eb2375b9f1c93e1a86125d1b01"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "0053ef8e3e37e5769df2c9990d55b25628b3c8c6c8249a091761d30e77dc9eb6"
 metafile = true
 
 [[files]]
@@ -484,6 +499,11 @@ hash = "466ab1bc0358d19032a13b1876eb4e2db3190c4ccae561b01c6bc07c1c9f1d2b"
 metafile = true
 
 [[files]]
+file = "mods/hardcore-revival.pw.toml"
+hash = "5176c8d72c8ff4108822bdf0f315c895a07a45875c6c7efa8b7b58b13ad5eba5"
+metafile = true
+
+[[files]]
 file = "mods/hearth-and-home.pw.toml"
 hash = "8f258e8923a90ee7fdf33b5df89240709ca1da1c19395c131a22ccdbed102999"
 metafile = true
@@ -496,6 +516,16 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "d0d383d4ff24fd6a4c5a9319806b0c99da9d0120fa14719911596eb39abc6f20"
+metafile = true
+
+[[files]]
+file = "mods/improved-mobs.pw.toml"
+hash = "4c41db50d79f0041468f2278f34c0065d8b448ec54a8052046fd90db180a6633"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "899eb3fbd543f58e6a9197923535347c30e4afcbf00cbf2fe5a774f7d8893bd3"
 metafile = true
 
 [[files]]
@@ -526,11 +556,6 @@ metafile = true
 [[files]]
 file = "mods/itemphysic.pw.toml"
 hash = "90684fb19bed74e6c1dfdf4737cbe2710d0ddc2e7143dfc3396ed2bb0b7933f3"
-metafile = true
-
-[[files]]
-file = "mods/jade.pw.toml"
-hash = "d04432348bdfc79908653387d17cad76c54b0abd9d313f87bb7902802d5bf93a"
 metafile = true
 
 [[files]]
@@ -704,6 +729,11 @@ hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "e63b436dba4a80db68e4c79e5d9f030096fad75fe264490403d75dee3dab72de"
+metafile = true
+
+[[files]]
 file = "mods/personality!.pw.toml"
 hash = "cb0de35c2b0c500669ec9486ae381f3987c437070c56a4788697d2430ae6d531"
 metafile = true
@@ -741,11 +771,6 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "9a8bc01ac2c21bad372e5b7db21e6d6207c0e1f1d60d1481157a2131ad653a26"
-metafile = true
-
-[[files]]
-file = "mods/resource-pack-overrides.pw.toml"
-hash = "5614c4af04d39763d7779a77b457947ac9cde2e8e22823720ccb505c792b2dc1"
 metafile = true
 
 [[files]]
@@ -809,6 +834,16 @@ hash = "35ac53f97504b5d71b607335d8560d41d11b4adba0f93db1fa1204132661be56"
 metafile = true
 
 [[files]]
+file = "mods/tenshilib.pw.toml"
+hash = "95a8e49f8906aa8610cbd9e055d1a235c719e0c5208e71c9730cfced9a6fcf0d"
+metafile = true
+
+[[files]]
+file = "mods/the-hordes.pw.toml"
+hash = "73d077f27157acd4dc93aa5930a303c2538f2e0fd1afb1ff3247d39854245d9f"
+metafile = true
+
+[[files]]
 file = "mods/thermal-dynamics.pw.toml"
 hash = "5077218f5a137152465214a9a35544a617902a50145055fd4bcee4121462c57b"
 metafile = true
@@ -859,6 +894,11 @@ hash = "34070092bcc47fcba943a6b3d09226ff9a0e54512fa91e3e34371a965c84ce8e"
 metafile = true
 
 [[files]]
+file = "mods/upgrade-aquatic.pw.toml"
+hash = "427a4ac2edeca19b458978f01611b2be1179e325b609e3d56241f97c8415a789"
+metafile = true
+
+[[files]]
 file = "mods/woodworks.pw.toml"
 hash = "d8b1fdcc4d8437ed8a69ef63821a9be7e99660e33cbd4166addab7f32548d6f3"
 metafile = true
@@ -869,6 +909,121 @@ hash = "fc3b414060d61cdd7fa43523789533c64eb31271b1f579933de899338de08e3f"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "896b09e7166d70f08e089862ad5eb8dbc8cfed02608f2c478587dbea191aadf2"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "c2e3390b5330508e73c0e0d42067dcbdb1137e73ce7ec4324288fd3b7ed2d50d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "647dc25daba3bac1f6e93e3abedaa80d00c83812595e0cf42df5ae966058e84f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "7e9f9d03e9777945478efb8eedc7e3b23d8986c6f3275cba4e3d6ffb65adb13e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "2b4c452b8e077743406460087ecba4a8e7b93d581308c4879dda8a35ed6e86c4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "4353ffe53f1dcf34093430446f30629d5f23ae10839dd766ea4438806d915a78"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "4143741c21217772c5f568cef36ec16861f9895d193f5eff3c674a6032fac4f1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "9ad77d663f0a287c2a902d71ccf7221f4ab49a29946743432e4ccb7506e86c21"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "584b719bb17c63ca4bb1432f45af46a17e1bce6307565f13b9c0298bb80f6945"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "7deb34098e5722d3b024231e937c66984e5874f653f0cfc95482f22bbc18f4d4"
+metafile = true
+
+[[files]]
 file = "mods/zombie-awareness.pw.toml"
 hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ashen-simple-foliage.pw.toml"
+hash = "df3b3d5a7f3937218d2540c030a2ac36c3f71e2893522a2c611a6f27fe70d0b2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ashen-simple-glass.pw.toml"
+hash = "fb20a83b040d2ef9c5331e0a4ccee92f7b0a8a1ebab542c0fae68463ce1d8dcc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ashen-vanilla-scaffolding.pw.toml"
+hash = "743a65c339888b4fbed45e47de783be0d7a38083648eb23690d1a7e6846603ab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ashen.pw.toml"
+hash = "44525ba92943d5edab75af148adabe8960a52de6b5cd57f432fc2746bb411d10"
+metafile = true
+
+[[files]]
+file = "resourcepacks/boss-refreshed.pw.toml"
+hash = "fc85b5158bd7499846cd88cf4b55e2aed4c1c75d0991aa3e812dd4eb0909ef4f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cursive-font.pw.toml"
+hash = "312b3163530a974d286af78cab172f9cba56aee1ad874f6d03d9370e5f7ac8ea"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dark-everywhere.pw.toml"
+hash = "7fe3cecbaf0635cb13c9a31afbdacfeae7ca12c0727b7f4c7a84664067f4ac82"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "5211c59a355673aa4a07698533778901324b5d352177ea324d48c849c6aa1593"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mobs-refreshed.pw.toml"
+hash = "db32a971b9e63b562e17b95e8799e13b6ebb017c270776a7f7c742397c473334"
+metafile = true
+
+[[files]]
+file = "resourcepacks/newdefaultplus.pw.toml"
+hash = "2639989caef534dc10b34d7c30107f735bffee59df56720981eab9f3e555d3a4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-dark.pw.toml"
+hash = "16b096ee1b15287081cc8a83c0104b66ce5e32afbed24f70eb6b8e48c2a8b506"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity-dark-edition.pw.toml"
+hash = "ceec7aace18ff21ae36cb0507bae76ce94906538a95e2e84ee04645878519be7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/villagers-refreshed.pw.toml"
+hash = "5bc93698343db35ed37488634af33f41dced9528a69a4deb945bc8551583f2c6"
 metafile = true

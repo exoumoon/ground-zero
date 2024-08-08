@@ -1,0 +1,13 @@
+name = "The Hordes"
+filename = "The-Hordes-1.20.1-1.5.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O3HDffUR/versions/aRBPMdFj/The-Hordes-1.20.1-1.5.4.jar"
+hash-format = "sha1"
+hash = "f3f23a178dbc42d00859e3ef7751842c6e23f18b"
+
+[update]
+[update.modrinth]
+mod-id = "O3HDffUR"
+version = "aRBPMdFj"

@@ -1,0 +1,13 @@
+name = "Ashen Vanilla Scaffolding"
+filename = "Ashen_Vanilla_Scaffolding.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/faXclN7L/versions/uM07gqcF/Ashen_Vanilla_Scaffolding.zip"
+hash-format = "sha1"
+hash = "7a079412f51df993fccc9e3f1c10d94e7d23ac67"
+
+[update]
+[update.modrinth]
+mod-id = "faXclN7L"
+version = "uM07gqcF"
