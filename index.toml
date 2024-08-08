@@ -564,11 +564,6 @@ hash = "cf594632550b1d4edb22b1d181c2339b7e3effc61086382918d1c49331a4cf00"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "cdc72b21651fa04953f146cb8acc6193c16a6d231f53bf9e66d7999625faef54"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "83219231c7af4677a2507e01ca0faf39acca69f05506148d1d6a3e47b4c94562"
 metafile = true
@@ -789,11 +784,6 @@ hash = "053348bdcfcc5ae4603ec7c647c9ec012e54e406ec9f743ac97d40f7b20aeba3"
 metafile = true
 
 [[files]]
-file = "mods/rotted.pw.toml"
-hash = "bcb93a5ee5f6488bae36f5d0cebd14f16c381aaaed4a43f9ce3b62170827ee67"
-metafile = true
-
-[[files]]
 file = "mods/seasonal-lets-do.pw.toml"
 hash = "69e9ed32bd82b7f2e3ecfe24cd2d7255a63e1831a14ed3e3d3a9242da855c0e9"
 metafile = true
@@ -896,6 +886,16 @@ metafile = true
 [[files]]
 file = "mods/woodworks.pw.toml"
 hash = "d8b1fdcc4d8437ed8a69ef63821a9be7e99660e33cbd4166addab7f32548d6f3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "a4f51b0ae9d618e46d8d1c0b08a32d1639aa6338a8400ec14d61dbca1af272af"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c1918df9e7d093988f06d5443ee9516f447054754335c5426d0516286c25c876"
 metafile = true
 
 [[files]]
