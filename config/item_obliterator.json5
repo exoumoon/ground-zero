@@ -1,0 +1,125 @@
+// How to add items?
+//  - They are json strings, so you need to separate each entry with a comma, except the last.
+//  - If you start an entry with !, it will be treated as a regular expression.
+//    Example: "!minecraft:.*_sword" to disable all swords.
+{
+    "configVersion": 2,
+    
+    // WARN: Items here will be unusable completely.
+    "blacklisted_items": [
+        // No clue why this exists even.
+        "create:crushed_raw_quicksilver",
+
+        // Dye depot for some fucking reason tries to add variants to modded blocks,
+        // which (of course) results in uncraftable and unusuble no-texture shit in EMI.
+        "!create:amber_.*",
+        "!create:aqua_.*",
+        "!create:beige_.*",
+        "!create:coral_.*",
+        "!create:forest_.*",
+        "!create:ginger_.*",
+        "!create:indigo_.*",
+        "!create:maroon_.*",
+        "!create:mint_.*",
+        "!create:navy_.*",
+        "!create:olive_.*",
+        "!create:rose_.*",
+        "!create:slate_.*",
+        "!create:tan_.*",
+        "!create:teal_.*",
+        "!create:verdant_.*",
+        "!createdeco:amber_.*",
+        "!createdeco:aqua_.*",
+        "!createdeco:beige_.*",
+        "!createdeco:coral_.*",
+        "!createdeco:forest_.*",
+        "!createdeco:ginger_.*",
+        "!createdeco:indigo_.*",
+        "!createdeco:maroon_.*",
+        "!createdeco:mint_.*",
+        "!createdeco:navy_.*",
+        "!createdeco:olive_.*",
+        "!createdeco:rose_.*",
+        "!createdeco:slate_.*",
+        "!createdeco:tan_.*",
+        "!createdeco:teal_.*",
+        "!createdeco:verdant_.*",
+        "!refinedstorage:amber_.*",
+        "!refinedstorage:aqua_.*",
+        "!refinedstorage:beige_.*",
+        "!refinedstorage:coral_.*",
+        "!refinedstorage:forest_.*",
+        "!refinedstorage:ginger_.*",
+        "!refinedstorage:indigo_.*",
+        "!refinedstorage:maroon_.*",
+        "!refinedstorage:mint_.*",
+        "!refinedstorage:navy_.*",
+        "!refinedstorage:olive_.*",
+        "!refinedstorage:rose_.*",
+        "!refinedstorage:slate_.*",
+        "!refinedstorage:tan_.*",
+        "!refinedstorage:teal_.*",
+        "!refinedstorage:verdant_.*",
+        "industrialforegoing:laser_lens16",
+        "industrialforegoing:laser_lens17",
+        "industrialforegoing:laser_lens18",
+        "industrialforegoing:laser_lens19",
+        "industrialforegoing:laser_lens20",
+        "industrialforegoing:laser_lens21",
+        "industrialforegoing:laser_lens22",
+        "industrialforegoing:laser_lens23",
+        "industrialforegoing:laser_lens24",
+        "industrialforegoing:laser_lens25",
+        "industrialforegoing:laser_lens26",
+        "industrialforegoing:laser_lens27",
+        "industrialforegoing:laser_lens28",
+        "industrialforegoing:laser_lens29",
+        "industrialforegoing:laser_lens30",
+        "industrialforegoing:laser_lens31",
+
+        // Thermal's steel is pointless.
+        "!thermal:steel_.*",
+
+        // Why, just WHY does a library mod add useless items.
+        "!hammerlib:.*",
+
+        // I don't like the style of the Infinity items of Industrial Foregoing.
+        "!industrialforegoing:infinity_.*",
+
+        "!spartanweaponry:.*copper.*"
+        "!spartanweaponry:.*tin.*"
+        "!spartanweaponry:.*bronze.*"
+        "!spartanweaponry:.*steel.*"
+        "!spartanweaponry:.*electrum.*"
+        "!spartanweaponry:.*lead.*"
+        "!spartanweaponry:.*nickel.*"
+        "!spartanweaponry:.*constantan.*"
+        "!spartanweaponry:.*platinum.*"
+        "!spartanweaponry:.*aluminium.*"
+
+        // Last item so I don't have to worry about commas.
+        ""
+    ],
+    
+    // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
+    // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
+    // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
+    "blacklisted_nbt": [ ],
+    
+    // Items here will not be able to be right-clicked.
+    "only_disable_interactions": [ ],
+    
+    // Items here will not be able to be used to attack.
+    "only_disable_attacks": [ ],
+    
+    // Items here will get their recipes disabled.
+    "only_disable_recipes": [ ],
+    
+    // If true, the mod will use a hashset to handle the blacklisted items
+    // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
+    // If you just have a small amount of items blacklisted, keep this false
+    //    
+    // [!] Enabling this will disable all regular expressions
+    // [!] Does not apply to NBT, only item blacklist / interaction / attack
+    "use_hashmap_optimizations": false
+}

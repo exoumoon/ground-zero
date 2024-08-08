@@ -1,0 +1,13 @@
+name = "Rotted"
+filename = "Rotted_1.20.1_1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tgl5fiFC/versions/138vioeS/Rotted_1.20.1_1.0.5.jar"
+hash-format = "sha1"
+hash = "eb1c90925e96f6f4a9b467fba5d349993b171e96"
+
+[update]
+[update.modrinth]
+mod-id = "Tgl5fiFC"
+version = "138vioeS"
