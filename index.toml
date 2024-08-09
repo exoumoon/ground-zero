@@ -57,6 +57,70 @@ file = "config/forge-client.toml"
 hash = "6479148647869ef0b05a06c840ed05b107905bc0b61a2293e536ff2dd5c57afa"
 
 [[files]]
+file = "config/hordes-client.toml"
+hash = "c5e4ca072a1f48a22839b01151c4e05f8cd66b5a7397dfdca8849496dd0889bc"
+
+[[files]]
+file = "config/hordes-common.toml"
+hash = "c7415d5c5f20fa3ce9d0862a3c0de2685c4d6ef4b7f66e97cbde8e7cbe38d029"
+
+[[files]]
+file = "config/hordes/data/hordes/horde_data/immune_wearables.json"
+hash = "c3075cc3300a08f3702df744139da25c3a8769d5a5695afe616f309954ed3d04"
+
+[[files]]
+file = "config/hordes/data/hordes/horde_data/immunity_items.json"
+hash = "59ebd27b0a1ab6e783b5ec3f7a5fb427dceee37eb7f13123650bae5f92b8422e"
+
+[[files]]
+file = "config/hordes/data/hordes/horde_data/infection_conversions.json"
+hash = "d814dd9b046b21b047ca62e6288c88f363c4d38720e9b262523f8bc638429f01"
+
+[[files]]
+file = "config/hordes/data/hordes/horde_data/scripts/default.json"
+hash = "67ad23f913758035ab307dcf741df54835c381406c44e54abbde58a532421d7f"
+
+[[files]]
+file = "config/hordes/data/hordes/horde_data/tables/default.json"
+hash = "37670e3d55af5e6b2dbb4bc3f0dbf14431156e62dc3618199911dd53b1a0873c"
+
+[[files]]
+file = "config/hordes/data/hordes/horde_data/tables/drowned.json"
+hash = "8a03b4c469ef6ba4b9312452c6750b48f9b169a4a0a059982b0992559648c850"
+
+[[files]]
+file = "config/hordes/data/hordes/horde_data/tables/illagers.json"
+hash = "3f0aa23a49fbb29cc5d02ffc89784a9ca9511a77cbc11ef483e7c9ea0c5953e3"
+
+[[files]]
+file = "config/hordes/data/hordes/horde_data/tables/mixed_mobs.json"
+hash = "274232671df5d1474e23fed7a929715d8abaf30d6fec2eefa5c51dd5fd7f10bf"
+
+[[files]]
+file = "config/hordes/data/hordes/horde_data/tables/skeletons.json"
+hash = "86862b1632eec6552486060d604ac78592db02f282dfccd8a88bf76e723a914c"
+
+[[files]]
+file = "config/hordes/data/hordes/tags/entity_types/infection_entities.json"
+hash = "4a1a43fcd30a7be63f084629a9d98b77c4fc6a8b1eef5097cbed231be6e763c7"
+
+[[files]]
+file = "config/hordes/data/hordes/tags/items/infection_cures.json"
+hash = "f0f1e02f1ee776391e6d98e206309362b3f795c1feea743edb132c795b894c10"
+
+[[files]]
+file = "config/hordes/data/hordes/tags/worldgen/biome/husk_player_spawn_biomes.json"
+hash = "083e811b4483358d62396f6e1517ff25791b2253c72d54f81a09bab5d0beb6a2"
+
+[[files]]
+file = "config/hordes/hordes-info.json"
+hash = "bdadfd1b63d89e66f83410e9ad2e4615fd05112648e6fe54e015790bb641e019"
+
+[[files]]
+file = "config/hordes/pack.mcmeta"
+hash = "b57bbfc0803df3c1a10194ea423c593b61824c5f3dea865ac5b87cf1f5855966"
+
+[[files]]
 file = "config/improvedmobs/common.toml"
 hash = "64ebbda13de894d775924b6ee64c6411dff3c3a514715a3467ff0fea84cb647f"
 
