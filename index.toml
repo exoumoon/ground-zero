@@ -33,10 +33,6 @@ file = "config/createaddition-common.toml"
 hash = "769f83a44bca6e49ceca9ef045d0a495cb842b6f9d94deb06615272ca0a367b2"
 
 [[files]]
-file = "config/draggable_lists.json5"
-hash = "523815276f43aa355350132dba10a81a8134651d1f9c8c9466349fcd471981b5"
-
-[[files]]
 file = "config/embeddium-options.json"
 hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
 
@@ -83,6 +79,10 @@ hash = "cff55278ef4dee896e69b07ecd1ce19f01ec6051d71e830681daa030e8709585"
 [[files]]
 file = "config/jade/sort-order.json"
 hash = "117f871ea5daf55c37a15d908c3712ad6f0aee93068eb80211ffa007c82ff069"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "e263d0809a88e9796441b2cc4b9eee73d8bea2137340d4221d3a4b653c5fb3ff"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -139,6 +139,10 @@ hash = "83f4361a64cb3581a86684caf715fb23542b49c2f1535193137d23c185577f02"
 [[files]]
 file = "config/zombieawareness/PlayerRulesAndLists.toml"
 hash = "0c9cb7ce493414f2a4b846417db297b8c24ec9950e5e2630d1cfff387568f5ae"
+
+[[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "f124c6a0b6290d865b330b810e6a1eac52abff5909b76838b0850c6baa8263a8"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -741,11 +745,6 @@ hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
 
 [[files]]
-file = "mods/paxi.pw.toml"
-hash = "e63b436dba4a80db68e4c79e5d9f030096fad75fe264490403d75dee3dab72de"
-metafile = true
-
-[[files]]
 file = "mods/personality!.pw.toml"
 hash = "cb0de35c2b0c500669ec9486ae381f3987c437070c56a4788697d2430ae6d531"
 metafile = true
@@ -783,6 +782,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "9a8bc01ac2c21bad372e5b7db21e6d6207c0e1f1d60d1481157a2131ad653a26"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "5614c4af04d39763d7779a77b457947ac9cde2e8e22823720ccb505c792b2dc1"
 metafile = true
 
 [[files]]

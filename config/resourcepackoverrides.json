@@ -1,0 +1,51 @@
+{
+    "schema_version": 2,
+    "failed_reloads_per_session": 5,
+
+    "default_packs": [
+        "vanilla",
+        "mod_resources",
+        "Moonlight Mods Dynamic Assets",
+        "hordes-config",
+
+        "file/Ashen_1.7.2.zip",
+        "file/Ashen_Simple_Foliage.zip",
+        "file/Ashen_Vanilla_Scaffolding.zip",
+        "file/Ashen_Simple_Glass.zip",
+        "file/Unity-1.20.1-Dark-1.1.0.zip",
+        "file/Dark Everywhere.zip",
+        "file/Unique Dark 1.20.1 (free).zip",
+        "file/Cursive Font.zip",
+        "file/[1.4.1] Enhanced Boss Bars.zip",
+        "file/TZP_1.20.1_2.7.zip"
+    ],
+
+    "default_overrides": {
+        "force_compatible": true
+    },
+
+    "pack_overrides": {
+        "core": [
+            "vanilla",
+            "mod_resources",
+            "Moonlight Mods Dynamic Assets",
+            "hordes-config",
+
+            "file/Ashen_1.7.2.zip",
+            "file/Ashen_Simple_Foliage.zip",
+            "file/Ashen_Vanilla_Scaffolding.zip",
+            "file/Ashen_Simple_Glass.zip",
+            "file/Unity-1.20.1-Dark-1.1.0.zip",
+            "file/Dark Everywhere.zip",
+            "file/Unique Dark 1.20.1 (free).zip",
+            "file/Cursive Font.zip",
+            "file/[1.4.1] Enhanced Boss Bars.zip",
+            "file/TZP_1.20.1_2.7.zip"
+        ],
+        
+        "$$core": {
+            "hidden": false,
+            "required": true
+        }
+    }
+}
