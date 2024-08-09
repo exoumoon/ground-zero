@@ -483,6 +483,11 @@ hash = "51a755f70e17b92657d34f43b6b2aee4b431d327bf1ff5ac616ded65d935e90e"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "d9968d6500c4052633307714bdb3044ae29deefdc1548c6aba16fa36e5697e22"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "7649eb945d320486c8862197130ac0d5052254fe791d13fec0b6aaacf56381e2"
 metafile = true
@@ -628,6 +633,11 @@ hash = "01c1739b0a62eaa9326444b58b56222ca8d66bf3ccb677e9ecfa54baa8c98a13"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "96320bde9afd69623633debefbaa0d32224fe259ab668c34ad6eab95ba982b22"
+metafile = true
+
+[[files]]
 file = "mods/item-borders.pw.toml"
 hash = "b54bcb74269ae5750d55f26cf890871fcc5b0184f8feacee2a5de4af65036818"
 metafile = true
@@ -648,6 +658,11 @@ hash = "90684fb19bed74e6c1dfdf4737cbe2710d0ddc2e7143dfc3396ed2bb0b7933f3"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "d04432348bdfc79908653387d17cad76c54b0abd9d313f87bb7902802d5bf93a"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "cf594632550b1d4edb22b1d181c2339b7e3effc61086382918d1c49331a4cf00"
 metafile = true
@@ -655,6 +670,16 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "83219231c7af4677a2507e01ca0faf39acca69f05506148d1d6a3e47b4c94562"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "452fbdade9bb1aee685d5bccf5d9f219b3532b0e659946f6ccadfe60d43f83aa"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "ed461d699dfadb76e5b38cf39d1eea7c35221db5587a35bf38499782b6f98160"
 metafile = true
 
 [[files]]
@@ -705,6 +730,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "d6f14c55f08b71ab9898d332615ecf28b6a4d4d4d4365b55f753bf1887b749ab"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "f3b0e45a85c3aafbf05a3828a38cd2985f3678b41fa95cfbd5d828ce4fcd4eaa"
 metafile = true
 
 [[files]]
@@ -875,6 +905,11 @@ metafile = true
 [[files]]
 file = "mods/seasonal-lets-do.pw.toml"
 hash = "69e9ed32bd82b7f2e3ecfe24cd2d7255a63e1831a14ed3e3d3a9242da855c0e9"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "068188a4198fd2fa3e0c5c23e32d7f5a70083c172d7d8fdec7961b3ae6c78e24"
 metafile = true
 
 [[files]]
@@ -1073,6 +1108,11 @@ hash = "fc85b5158bd7499846cd88cf4b55e2aed4c1c75d0991aa3e812dd4eb0909ef4f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/create-style-for-refined-storage.pw.toml"
+hash = "1ee5b1c7f6dd34fdf5f3d77912aa0a761fbf24e3cb29964b7c3f1ff7e3bd7241"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cursive-font.pw.toml"
 hash = "312b3163530a974d286af78cab172f9cba56aee1ad874f6d03d9370e5f7ac8ea"
 metafile = true
@@ -1095,6 +1135,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/newdefaultplus.pw.toml"
 hash = "2639989caef534dc10b34d7c30107f735bffee59df56720981eab9f3e555d3a4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repolished-security.pw.toml"
+hash = "3151f6c53645b67df880f60829e859deb1cb0684f60925fbaa63dcdaeefedb4f"
 metafile = true
 
 [[files]]

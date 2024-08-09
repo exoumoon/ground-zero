@@ -1,0 +1,13 @@
+name = "Repolished Security"
+filename = "§7§l-§4§lRepolished§7§l-§4§lSecurity§7§l-§7.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3bee3de07593da0c2b6fd8bea023815e5cf4d995"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5428093
+project-id = 1036816
