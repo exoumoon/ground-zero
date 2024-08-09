@@ -1108,9 +1108,8 @@ hash = "fc85b5158bd7499846cd88cf4b55e2aed4c1c75d0991aa3e812dd4eb0909ef4f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-style-for-refined-storage.pw.toml"
-hash = "1ee5b1c7f6dd34fdf5f3d77912aa0a761fbf24e3cb29964b7c3f1ff7e3bd7241"
-metafile = true
+file = "resourcepacks/create-style-refined-storage.zip"
+hash = "f2de8c31a48e69df2fbfdec83d1f995264f754eb37934786241e5d95728d79f3"
 
 [[files]]
 file = "resourcepacks/cursive-font.pw.toml"
