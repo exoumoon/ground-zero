@@ -57,6 +57,10 @@ file = "config/forge-client.toml"
 hash = "6479148647869ef0b05a06c840ed05b107905bc0b61a2293e536ff2dd5c57afa"
 
 [[files]]
+file = "config/improvedmobs/common.toml"
+hash = "64ebbda13de894d775924b6ee64c6411dff3c3a514715a3467ff0fea84cb647f"
+
+[[files]]
 file = "config/item_obliterator.json5"
 hash = "c7b58f79cdb577b29ad0c4c074c390bb7fd8fd918bcbbc801143f81e601c671a"
 
