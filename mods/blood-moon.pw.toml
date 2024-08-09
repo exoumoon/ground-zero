@@ -1,0 +1,13 @@
+name = "Horde Nights"
+filename = "blood-moon-1.0.0-Pr2a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jGO2ac1X/versions/fTztC37G/blood-moon-1.0.0-Pr2a.jar"
+hash-format = "sha1"
+hash = "6acbbcdde6b7b08239819c71854d317084326fa1"
+
+[update]
+[update.modrinth]
+mod-id = "jGO2ac1X"
+version = "fTztC37G"
