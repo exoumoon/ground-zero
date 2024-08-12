@@ -1011,6 +1011,11 @@ hash = "0b65cd1a439326b6a81f453773722893e4eef1c065859e7a0f2935952f6e9cb3"
 metafile = true
 
 [[files]]
+file = "mods/universal-enchants.pw.toml"
+hash = "ed4342776c2a18da7de99b9c98f530df3f42fe25549bc2c299b318f1de9ff91f"
+metafile = true
+
+[[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "427a4ac2edeca19b458978f01611b2be1179e325b609e3d56241f97c8415a789"
 metafile = true
