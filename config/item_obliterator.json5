@@ -23,7 +23,7 @@
         "!create:mint_.*",
         "!create:navy_.*",
         "!create:olive_.*",
-        "!create:rose_.*",
+        "!create:rose_(?!quartz).*",
         "!create:slate_.*",
         "!create:tan_.*",
         "!create:teal_.*",
