@@ -19,3 +19,14 @@ stop:
 
 # Restart the server container.
 restart: stop start
+
+# Make a full backup of the server.
+[no-cd]
+backup:
+    #!/usr/bin/env nu
+    let server_name = (pwd | path basename)
+    let backup_name = $server_name + $"_(date now | format date '%Y-%m-%d_%H:%M:%S')"
+    cd ..
+    cp --recursive $server_name $".backups/($backup_name)"
+    sync
+    dua .backups
