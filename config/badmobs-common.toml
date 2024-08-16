@@ -192,7 +192,7 @@
 	#Spawning options for minecraft:enderman
 	[minecraft.enderman]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = false
+		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?

@@ -22,7 +22,7 @@ hash = "7a41bd262effb05c468de1dbcc3b5cfe04124d537710064e1ceed735a8514632"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "a483c5888f1e0a02997040e64dfc8eaa0e1176025cba4a720361366c36c352e3"
+hash = "23290e6d4a7a8ff9ba5dc6aa678b989abfdcee3d0b689f18d7ca9f20b63488e0"
 
 [[files]]
 file = "config/create_connected-common.toml"
@@ -134,7 +134,7 @@ hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "c7b58f79cdb577b29ad0c4c074c390bb7fd8fd918bcbbc801143f81e601c671a"
+hash = "067c4dd7258048eb99f7cbd90b993652c23ed34ee07d863d92be53eb1531f1e8"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
