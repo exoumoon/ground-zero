@@ -1,0 +1,13 @@
+name = "Vic's Point Blank"
+filename = "pointblank-1.20.1-1.5.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/og4KPYmA/versions/OUYMOmog/pointblank-1.20.1-1.5.12.jar"
+hash-format = "sha1"
+hash = "aa9fb9e385d6b678018d06b36d08efd2023ceec7"
+
+[update]
+[update.modrinth]
+mod-id = "og4KPYmA"
+version = "OUYMOmog"

@@ -421,6 +421,11 @@ hash = "80061143ef327fe4611e10a6c2bce219be4fb893260106a321c6628e151a57ec"
 metafile = true
 
 [[files]]
+file = "mods/create-utilities.pw.toml"
+hash = "99e0e7cd950d6679608744201d889a5ad615ac45229298c65d1225f4375c7090"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
@@ -956,6 +961,11 @@ hash = "35ac53f97504b5d71b607335d8560d41d11b4adba0f93db1fa1204132661be56"
 metafile = true
 
 [[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "48e5c5fe512a216ff65dc75ad6655cc5321f0b8cea9201a80b4dd6824f96ff1b"
+metafile = true
+
+[[files]]
 file = "mods/tenshilib.pw.toml"
 hash = "95a8e49f8906aa8610cbd9e055d1a235c719e0c5208e71c9730cfced9a6fcf0d"
 metafile = true
@@ -1018,6 +1028,11 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "427a4ac2edeca19b458978f01611b2be1179e325b609e3d56241f97c8415a789"
+metafile = true
+
+[[files]]
+file = "mods/vics-point-blank.pw.toml"
+hash = "f4ef8b69a459a3fe3d857f1a7457ff3c1bc56c8b754e71adeac5d80ba3b0d7d4"
 metafile = true
 
 [[files]]
