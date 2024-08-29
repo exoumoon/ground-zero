@@ -25,7 +25,7 @@ restart: stop start
 backup:
     #!/usr/bin/env nu
     let server_name = (pwd | path basename)
-    let backup_name = $server_name + $"_(date now | format date '%Y-%m-%d_%H:%M:%S')"
+    let backup_name = ($server_name | str kebab-case) + $"_(date now | format date '%Y-%m-%d_%H:%M:%S')"
     cd ..
     cp --recursive $server_name $".backups/($backup_name)"
     sync

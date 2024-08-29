@@ -1,0 +1,13 @@
+name = "Extreme Horde Moon"
+filename = "ExtremeZombieMoon-1.20-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X1ze5xoo/versions/7yinax6R/ExtremeZombieMoon-1.20-1.0.1.jar"
+hash-format = "sha1"
+hash = "d72b0be20e460add030ec709f4fe4150399b0cb8"
+
+[update]
+[update.modrinth]
+mod-id = "X1ze5xoo"
+version = "7yinax6R"

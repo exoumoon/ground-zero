@@ -526,6 +526,11 @@ hash = "3a105970fd48f4875257539af811e7b132a3c49a2f34380794913ca12cf7e777"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "7d59b42300f985c94b557ede288da85a61fe425059a5e2e2c3798bbe1b217472"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "8abf1256f66e369ab03f3e4a46c235eb9a4a2ebeeaf9393a810a649592f8b0dc"
 metafile = true
@@ -548,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/extra-zombie-drops.pw.toml"
 hash = "1aa70b21d6d7e6142d22f814acdf6cae4d75f8d7858a5ffd29bf4673f2aead00"
+metafile = true
+
+[[files]]
+file = "mods/extreme-horde-moon.pw.toml"
+hash = "eeae631faf0661d31b7890d87fb333028a5941208b7cdec974c43429492d2bc8"
 metafile = true
 
 [[files]]
@@ -613,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/hearth-and-home.pw.toml"
 hash = "8f258e8923a90ee7fdf33b5df89240709ca1da1c19395c131a22ccdbed102999"
+metafile = true
+
+[[files]]
+file = "mods/horde-moon.pw.toml"
+hash = "059c5ae99502f524282056c1079f19c7375b02c1d2b10949b347403619ff5869"
 metafile = true
 
 [[files]]
@@ -968,11 +983,6 @@ metafile = true
 [[files]]
 file = "mods/tenshilib.pw.toml"
 hash = "95a8e49f8906aa8610cbd9e055d1a235c719e0c5208e71c9730cfced9a6fcf0d"
-metafile = true
-
-[[files]]
-file = "mods/the-hordes.pw.toml"
-hash = "73d077f27157acd4dc93aa5930a303c2538f2e0fd1afb1ff3247d39854245d9f"
 metafile = true
 
 [[files]]
