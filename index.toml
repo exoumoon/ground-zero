@@ -122,7 +122,7 @@ hash = "b57bbfc0803df3c1a10194ea423c593b61824c5f3dea865ac5b87cf1f5855966"
 
 [[files]]
 file = "config/improvedmobs/common.toml"
-hash = "64ebbda13de894d775924b6ee64c6411dff3c3a514715a3467ff0fea84cb647f"
+hash = "3483c0b164db48813164ea238cd9912f52dcd726fac01a8ef74f8b2aee905e84"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
